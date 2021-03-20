@@ -4,10 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fleoxi&label=Vues&color=0e75b6&style=flat" alt="fleoxi" /> </p>
 
 - 🔭 I’m currently working on [wiltOS Technologies website](http://wiltostech.com/)
-
-- 🌱 I’m currently learning **React & Gatsby**
-
 - 🔭 I’m currently working on [Pixelobot](https://github.com/Fleoxi/Pixelobot)
+- 🌱 I’m currently learning **React & Gatsby**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
